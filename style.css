@@ -1,7 +1,12 @@
+@font-face{
+    font-family: "567";
+    src: url(./Montserrat.ttf);
+}
 h1{
     color:#2222ff;
 }
 p{
-    font-family: Montserrat;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: "567";
     font-weight:700;
 }
